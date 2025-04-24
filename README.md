@@ -1,5 +1,5 @@
 <div align="center">
-  <h1>🏀 NBA Team Match Game</h1>
+  <h1>🏀 NBA Game </h1>
   <p>Test your NBA knowledge by filling in a grid with players who have played on both teams shown. One goal: complete the grid!</p>
   <p><strong>Inspired by:</strong> <a href="https://www.hoopgrids.com/">Hoop Grids</a></p>
   <p><strong>Maker:</strong> AAYUSH BADOLA</p>
